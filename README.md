@@ -1,4 +1,4 @@
-## Advanced Business Intelligence Project
+## Advanced Business Intelligence and Analytics Project
 
 The final project of the TH Köln module ["Advanced Business Intelligence and Analytics"](https://digital-sciences.de/en/modules/advanced-business-intelligence-and-analytics/) as part of the Digital Sciences Master's Degree.
 
